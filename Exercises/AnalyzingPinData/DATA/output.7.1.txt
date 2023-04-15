@@ -1,0 +1,562 @@
+7.1
+ 
+for L1 Cache: size = 32, associativity=4, block=64
+L1: size=32, associativity=4, block=64
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+blackscholes,IPC: 0.197307,
+ 
+ 
+L1: size=32, associativity=4, block=64
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+bodytrack,IPC: 0.606601,
+ 
+ 
+L1: size=32, associativity=4, block=64
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+canneal,IPC: 0.0822712,
+ 
+ 
+L1: size=32, associativity=4, block=64
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+fluidanimate,IPC: 0.651616,
+ 
+ 
+L1: size=32, associativity=4, block=64
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+freqmine,IPC: 0.566767,
+ 
+ 
+L1: size=32, associativity=4, block=64
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+raytrace,IPC: 0.706806,
+ 
+ 
+L1: size=32, associativity=4, block=64
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+swaptions,IPC: 0.718835,
+ 
+ 
+L1: size=32, associativity=4, block=64
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+streamcluster,IPC: 0.213973,
+ 
+ 
+------------------------------------------
+ 
+for L1 Cache: size = 32, associativity=8, block=32
+L1: size=32, associativity=8, block=32
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+blackscholes,IPC: 0.202661,
+ 
+ 
+L1: size=32, associativity=8, block=32
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+bodytrack,IPC: 0.602983,
+ 
+ 
+L1: size=32, associativity=8, block=32
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+canneal,IPC: 0.082126,
+ 
+ 
+L1: size=32, associativity=8, block=32
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+fluidanimate,IPC: 0.64959,
+ 
+ 
+L1: size=32, associativity=8, block=32
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+freqmine,IPC: 0.602794,
+ 
+ 
+L1: size=32, associativity=8, block=32
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+raytrace,IPC: 0.704776,
+ 
+ 
+L1: size=32, associativity=8, block=32
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+swaptions,IPC: 0.713081,
+ 
+ 
+L1: size=32, associativity=8, block=32
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+streamcluster,IPC: 0.207475,
+ 
+ 
+------------------------------------------
+ 
+for L1 Cache: size = 32, associativity=8, block=64
+L1: size=32, associativity=8, block=64
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+blackscholes,IPC: 0.203238,
+ 
+ 
+L1: size=32, associativity=8, block=64
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+bodytrack,IPC: 0.607163,
+ 
+ 
+L1: size=32, associativity=8, block=64
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+canneal,IPC: 0.0825225,
+ 
+ 
+L1: size=32, associativity=8, block=64
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+fluidanimate,IPC: 0.652939,
+ 
+ 
+L1: size=32, associativity=8, block=64
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+freqmine,IPC: 0.616772,
+ 
+ 
+L1: size=32, associativity=8, block=64
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+raytrace,IPC: 0.707628,
+ 
+ 
+L1: size=32, associativity=8, block=64
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+swaptions,IPC: 0.651536,
+ 
+ 
+L1: size=32, associativity=8, block=64
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+streamcluster,IPC: 0.213651,
+ 
+ 
+------------------------------------------
+ 
+for L1 Cache: size = 32, associativity=8, block=128
+L1: size=32, associativity=8, block=128
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+blackscholes,IPC: 0.20382,
+ 
+ 
+L1: size=32, associativity=8, block=128
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+bodytrack,IPC: 0.613907,
+ 
+ 
+L1: size=32, associativity=8, block=128
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+canneal,IPC: 0.08355,
+ 
+ 
+L1: size=32, associativity=8, block=128
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+fluidanimate,IPC: 0.659643,
+ 
+ 
+L1: size=32, associativity=8, block=128
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+freqmine,IPC: 0.571052,
+ 
+ 
+L1: size=32, associativity=8, block=128
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+raytrace,IPC: 0.71041,
+ 
+ 
+L1: size=32, associativity=8, block=128
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+swaptions,IPC: 0.721195,
+ 
+ 
+L1: size=32, associativity=8, block=128
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+streamcluster,IPC: 0.223188,
+ 
+ 
+------------------------------------------
+ 
+for L1 Cache: size = 64, associativity=4, block=64
+L1: size=64, associativity=4, block=64
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+blackscholes,IPC: 0.197364,
+ 
+ 
+L1: size=64, associativity=4, block=64
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+bodytrack,IPC: 0.612801,
+ 
+ 
+L1: size=64, associativity=4, block=64
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+canneal,IPC: 0.0822884,
+ 
+ 
+L1: size=64, associativity=4, block=64
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+fluidanimate,IPC: 0.653836,
+ 
+ 
+L1: size=64, associativity=4, block=64
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+freqmine,IPC: 0.518918,
+ 
+ 
+L1: size=64, associativity=4, block=64
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+raytrace,IPC: 0.70808,
+ 
+ 
+L1: size=64, associativity=4, block=64
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+swaptions,IPC: 0.722676,
+ 
+ 
+L1: size=64, associativity=4, block=64
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+streamcluster,IPC: 0.214047,
+ 
+ 
+------------------------------------------
+ 
+for L1 Cache: size = 64, associativity=4, block=32
+L1: size=64, associativity=8, block=32
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+blackscholes,IPC: 0.202665,
+ 
+ 
+L1: size=64, associativity=8, block=32
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+bodytrack,IPC: 0.624903,
+ 
+ 
+L1: size=64, associativity=8, block=32
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+canneal,IPC: 0.0825949,
+ 
+ 
+L1: size=64, associativity=8, block=32
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+fluidanimate,IPC: 0.650895,
+ 
+ 
+L1: size=64, associativity=8, block=32
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+freqmine,IPC: 0.613522,
+ 
+ 
+L1: size=64, associativity=8, block=32
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+raytrace,IPC: 0.70581,
+ 
+ 
+L1: size=64, associativity=8, block=32
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+swaptions,IPC: 0.72681,
+ 
+ 
+L1: size=64, associativity=8, block=32
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+streamcluster,IPC: 0.207705,
+ 
+ 
+------------------------------------------
+ 
+for L1 Cache: size = 64, associativity=4, block=64
+L1: size=64, associativity=8, block=64
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+blackscholes,IPC: 0.203242,
+ 
+ 
+L1: size=64, associativity=8, block=64
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+bodytrack,IPC: 0.610407,
+ 
+ 
+L1: size=64, associativity=8, block=64
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+canneal,IPC: 0.0827002,
+ 
+ 
+L1: size=64, associativity=8, block=64
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+fluidanimate,IPC: 0.654033,
+ 
+ 
+L1: size=64, associativity=8, block=64
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+freqmine,IPC: 0.549096,
+ 
+ 
+L1: size=64, associativity=8, block=64
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+raytrace,IPC: 0.70795,
+ 
+ 
+L1: size=64, associativity=8, block=64
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+swaptions,IPC: 0.726827,
+ 
+ 
+L1: size=64, associativity=8, block=64
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+streamcluster,IPC: 0.21396,
+ 
+ 
+------------------------------------------
+ 
+for L1 Cache: size = 64, associativity=4, block=128
+L1: size=64, associativity=8, block=128
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+blackscholes,IPC: 0.203821,
+ 
+ 
+L1: size=64, associativity=8, block=128
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+bodytrack,IPC: 0.615165,
+ 
+ 
+L1: size=64, associativity=8, block=128
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+canneal,IPC: 0.084516,
+ 
+ 
+L1: size=64, associativity=8, block=128
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+fluidanimate,IPC: 0.660692,
+ 
+ 
+L1: size=64, associativity=8, block=128
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+freqmine,IPC: 0.585282,
+ 
+ 
+L1: size=64, associativity=8, block=128
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+raytrace,IPC: 0.710967,
+ 
+ 
+L1: size=64, associativity=8, block=128
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+swaptions,IPC: 0.726831,
+ 
+ 
+L1: size=64, associativity=8, block=128
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+streamcluster,IPC: 0.223203,
+ 
+ 
+------------------------------------------
+ 
+for L1 Cache: size = 64, associativity=4, block=32
+L1: size=128, associativity=8, block=32
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+blackscholes,IPC: 0.202669,
+ 
+ 
+L1: size=128, associativity=8, block=32
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+bodytrack,IPC: 0.642899,
+ 
+ 
+L1: size=128, associativity=8, block=32
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+canneal,IPC: 0.0824186,
+ 
+ 
+L1: size=128, associativity=8, block=32
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+fluidanimate,IPC: 0.651969,
+ 
+ 
+L1: size=128, associativity=8, block=32
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+freqmine,IPC: 0.536155,
+ 
+ 
+L1: size=128, associativity=8, block=32
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+raytrace,IPC: 0.705781,
+ 
+ 
+L1: size=128, associativity=8, block=32
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+swaptions,IPC: 0.726822,
+ 
+ 
+L1: size=128, associativity=8, block=32
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+streamcluster,IPC: 0.207884,
+ 
+ 
+------------------------------------------
+ 
+for L1 Cache: size = 64, associativity=4, block=64
+L1: size=128, associativity=8, block=64
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+blackscholes,IPC: 0.203243,
+ 
+ 
+L1: size=128, associativity=8, block=64
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+bodytrack,IPC: 0.63618,
+ 
+ 
+L1: size=128, associativity=8, block=64
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+canneal,IPC: 0.0826305,
+ 
+ 
+L1: size=128, associativity=8, block=64
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+fluidanimate,IPC: 0.65594,
+ 
+ 
+L1: size=128, associativity=8, block=64
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+freqmine,IPC: 0.548975,
+ 
+ 
+L1: size=128, associativity=8, block=64
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+raytrace,IPC: 0.704664,
+ 
+ 
+L1: size=128, associativity=8, block=64
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+swaptions,IPC: 0.726781,
+ 
+ 
+L1: size=128, associativity=8, block=64
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+streamcluster,IPC: 0.214124,
+ 
+ 
+------------------------------------------
+ 
+for L1 Cache: size = 64, associativity=4, block=128
+L1: size=128, associativity=8, block=128
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+blackscholes,IPC: 0.203821,
+ 
+ 
+L1: size=128, associativity=8, block=128
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+bodytrack,IPC: 0.62352,
+ 
+ 
+L1: size=128, associativity=8, block=128
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+canneal,IPC: 0.083552,
+ 
+ 
+L1: size=128, associativity=8, block=128
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+fluidanimate,IPC: 0.662132,
+ 
+ 
+L1: size=128, associativity=8, block=128
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+freqmine,IPC: 0.616269,
+ 
+ 
+L1: size=128, associativity=8, block=128
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+raytrace,IPC: 0.711274,
+ 
+ 
+L1: size=128, associativity=8, block=128
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+swaptions,IPC: 0.726807,
+ 
+ 
+L1: size=128, associativity=8, block=128
+L2: size=1024, associativity=8, block=128
+TLB: size=64, associativity=4, page=4096
+streamcluster,IPC: 0.223143,
+ 
+ 
+------------------------------------------
