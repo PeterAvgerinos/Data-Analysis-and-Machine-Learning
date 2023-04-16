@@ -4,49 +4,49 @@ For N = 1
 L1: size=32, associativity=8, block=64
 L2: size=1024, associativity=8, block=128
 TLB: size=64, associativity=4, page=4096
-blackscholes,IPC: 0.203238,
+blackscholes,IPC: 0.207086,
  
  
 L1: size=32, associativity=8, block=64
 L2: size=1024, associativity=8, block=128
 TLB: size=64, associativity=4, page=4096
-bodytrack,IPC: 0.606635,
+bodytrack,IPC: 0.610973,
  
  
 L1: size=32, associativity=8, block=64
 L2: size=1024, associativity=8, block=128
 TLB: size=64, associativity=4, page=4096
-canneal,IPC: 0.0820332,
+canneal,IPC: 0.0829794,
  
  
 L1: size=32, associativity=8, block=64
 L2: size=1024, associativity=8, block=128
 TLB: size=64, associativity=4, page=4096
-fluidanimate,IPC: 0.652936,
+fluidanimate,IPC: 0.686969,
  
  
 L1: size=32, associativity=8, block=64
 L2: size=1024, associativity=8, block=128
 TLB: size=64, associativity=4, page=4096
-freqmine,IPC: 0.616854,
+freqmine,IPC: 0.619924,
  
  
 L1: size=32, associativity=8, block=64
 L2: size=1024, associativity=8, block=128
 TLB: size=64, associativity=4, page=4096
-raytrace,IPC: 0.707766,
+raytrace,IPC: 0.719768,
  
  
 L1: size=32, associativity=8, block=64
 L2: size=1024, associativity=8, block=128
 TLB: size=64, associativity=4, page=4096
-swaptions,IPC: 0.717674,
+swaptions,IPC: 0.718126,
  
  
 L1: size=32, associativity=8, block=64
 L2: size=1024, associativity=8, block=128
 TLB: size=64, associativity=4, page=4096
-streamcluster,IPC: 0.213626,
+streamcluster,IPC: 0.307179,
  
  
 ------------------------------------------
@@ -55,49 +55,49 @@ For N = 2
 L1: size=32, associativity=8, block=64
 L2: size=1024, associativity=8, block=128
 TLB: size=64, associativity=4, page=4096
-blackscholes,IPC: 0.203235,
+blackscholes,IPC: 0.208339,
  
  
 L1: size=32, associativity=8, block=64
 L2: size=1024, associativity=8, block=128
 TLB: size=64, associativity=4, page=4096
-bodytrack,IPC: 0.606661,
+bodytrack,IPC: 0.612504,
  
  
 L1: size=32, associativity=8, block=64
 L2: size=1024, associativity=8, block=128
 TLB: size=64, associativity=4, page=4096
-canneal,IPC: 0.0812537,
+canneal,IPC: 0.0826691,
  
  
 L1: size=32, associativity=8, block=64
 L2: size=1024, associativity=8, block=128
 TLB: size=64, associativity=4, page=4096
-fluidanimate,IPC: 0.652931,
+fluidanimate,IPC: 0.700128,
  
  
 L1: size=32, associativity=8, block=64
 L2: size=1024, associativity=8, block=128
 TLB: size=64, associativity=4, page=4096
-freqmine,IPC: 0.459895,
+freqmine,IPC: 0.618367,
  
  
 L1: size=32, associativity=8, block=64
 L2: size=1024, associativity=8, block=128
 TLB: size=64, associativity=4, page=4096
-raytrace,IPC: 0.707816,
+raytrace,IPC: 0.723767,
  
  
 L1: size=32, associativity=8, block=64
 L2: size=1024, associativity=8, block=128
 TLB: size=64, associativity=4, page=4096
-swaptions,IPC: 0.718058,
+swaptions,IPC: 0.717996,
  
  
 L1: size=32, associativity=8, block=64
 L2: size=1024, associativity=8, block=128
 TLB: size=64, associativity=4, page=4096
-streamcluster,IPC: 0.213666,
+streamcluster,IPC: 0.355559,
  
  
 ------------------------------------------
@@ -106,49 +106,49 @@ For N = 4
 L1: size=32, associativity=8, block=64
 L2: size=1024, associativity=8, block=128
 TLB: size=64, associativity=4, page=4096
-blackscholes,IPC: 0.203236,
+blackscholes,IPC: 0.209408,
  
  
 L1: size=32, associativity=8, block=64
 L2: size=1024, associativity=8, block=128
 TLB: size=64, associativity=4, page=4096
-bodytrack,IPC: 0.606183,
+bodytrack,IPC: 0.60847,
  
  
 L1: size=32, associativity=8, block=64
 L2: size=1024, associativity=8, block=128
 TLB: size=64, associativity=4, page=4096
-canneal,IPC: 0.0824207,
+canneal,IPC: 0.08208,
  
  
 L1: size=32, associativity=8, block=64
 L2: size=1024, associativity=8, block=128
 TLB: size=64, associativity=4, page=4096
-fluidanimate,IPC: 0.652954,
+fluidanimate,IPC: 0.707764,
  
  
 L1: size=32, associativity=8, block=64
 L2: size=1024, associativity=8, block=128
 TLB: size=64, associativity=4, page=4096
-freqmine,IPC: 0.577308,
+freqmine,IPC: 0.619147,
  
  
 L1: size=32, associativity=8, block=64
 L2: size=1024, associativity=8, block=128
 TLB: size=64, associativity=4, page=4096
-raytrace,IPC: 0.707684,
+raytrace,IPC: 0.727539,
  
  
 L1: size=32, associativity=8, block=64
 L2: size=1024, associativity=8, block=128
 TLB: size=64, associativity=4, page=4096
-swaptions,IPC: 0.71809,
+swaptions,IPC: 0.718189,
  
  
 L1: size=32, associativity=8, block=64
 L2: size=1024, associativity=8, block=128
 TLB: size=64, associativity=4, page=4096
-streamcluster,IPC: 0.213693,
+streamcluster,IPC: 0.369377,
  
  
 ------------------------------------------
@@ -157,49 +157,49 @@ For N = 8
 L1: size=32, associativity=8, block=64
 L2: size=1024, associativity=8, block=128
 TLB: size=64, associativity=4, page=4096
-blackscholes,IPC: 0.203236,
+blackscholes,IPC: 0.210151,
  
  
 L1: size=32, associativity=8, block=64
 L2: size=1024, associativity=8, block=128
 TLB: size=64, associativity=4, page=4096
-bodytrack,IPC: 0.607145,
+bodytrack,IPC: 0.613977,
  
  
 L1: size=32, associativity=8, block=64
 L2: size=1024, associativity=8, block=128
 TLB: size=64, associativity=4, page=4096
-canneal,IPC: 0.0821772,
+canneal,IPC: 0.0840786,
  
  
 L1: size=32, associativity=8, block=64
 L2: size=1024, associativity=8, block=128
 TLB: size=64, associativity=4, page=4096
-fluidanimate,IPC: 0.652931,
+fluidanimate,IPC: 0.745914,
  
  
 L1: size=32, associativity=8, block=64
 L2: size=1024, associativity=8, block=128
 TLB: size=64, associativity=4, page=4096
-freqmine,IPC: 0.614601,
+freqmine,IPC: 0.571898,
  
  
 L1: size=32, associativity=8, block=64
 L2: size=1024, associativity=8, block=128
 TLB: size=64, associativity=4, page=4096
-raytrace,IPC: 0.707878,
+raytrace,IPC: 0.729105,
  
  
 L1: size=32, associativity=8, block=64
 L2: size=1024, associativity=8, block=128
 TLB: size=64, associativity=4, page=4096
-swaptions,IPC: 0.718066,
+swaptions,IPC: 0.718034,
  
  
 L1: size=32, associativity=8, block=64
 L2: size=1024, associativity=8, block=128
 TLB: size=64, associativity=4, page=4096
-streamcluster,IPC: 0.213786,
+streamcluster,IPC: 0.430409,
  
  
 ------------------------------------------
@@ -208,49 +208,49 @@ For N = 1
 L1: size=32, associativity=8, block=64
 L2: size=1024, associativity=8, block=128
 TLB: size=64, associativity=4, page=4096
-blackscholes,IPC: 0.203237,
+blackscholes,IPC: 0.210615,
  
  
 L1: size=32, associativity=8, block=64
 L2: size=1024, associativity=8, block=128
 TLB: size=64, associativity=4, page=4096
-bodytrack,IPC: 0.606604,
+bodytrack,IPC: 0.610226,
  
  
 L1: size=32, associativity=8, block=64
 L2: size=1024, associativity=8, block=128
 TLB: size=64, associativity=4, page=4096
-canneal,IPC: 0.0819368,
+canneal,IPC: 0.0834215,
  
  
 L1: size=32, associativity=8, block=64
 L2: size=1024, associativity=8, block=128
 TLB: size=64, associativity=4, page=4096
-fluidanimate,IPC: 0.65293,
+fluidanimate,IPC: 0.764799,
  
  
 L1: size=32, associativity=8, block=64
 L2: size=1024, associativity=8, block=128
 TLB: size=64, associativity=4, page=4096
-freqmine,IPC: 0.569397,
+freqmine,IPC: 0.606108,
  
  
 L1: size=32, associativity=8, block=64
 L2: size=1024, associativity=8, block=128
 TLB: size=64, associativity=4, page=4096
-raytrace,IPC: 0.707497,
+raytrace,IPC: 0.729069,
  
  
 L1: size=32, associativity=8, block=64
 L2: size=1024, associativity=8, block=128
 TLB: size=64, associativity=4, page=4096
-swaptions,IPC: 0.718196,
+swaptions,IPC: 0.717736,
  
  
 L1: size=32, associativity=8, block=64
 L2: size=1024, associativity=8, block=128
 TLB: size=64, associativity=4, page=4096
-streamcluster,IPC: 0.21369,
+streamcluster,IPC: 0.436338,
  
  
 ------------------------------------------
@@ -259,49 +259,49 @@ For N = 32
 L1: size=32, associativity=8, block=64
 L2: size=1024, associativity=8, block=128
 TLB: size=64, associativity=4, page=4096
-blackscholes,IPC: 0.201593,
+blackscholes,IPC: 0.210812,
  
  
 L1: size=32, associativity=8, block=64
 L2: size=1024, associativity=8, block=128
 TLB: size=64, associativity=4, page=4096
-bodytrack,IPC: 0.606135,
+bodytrack,IPC: 0.615197,
  
  
 L1: size=32, associativity=8, block=64
 L2: size=1024, associativity=8, block=128
 TLB: size=64, associativity=4, page=4096
-canneal,IPC: 0.0817074,
+canneal,IPC: 0.0838399,
  
  
 L1: size=32, associativity=8, block=64
 L2: size=1024, associativity=8, block=128
 TLB: size=64, associativity=4, page=4096
-fluidanimate,IPC: 0.65296,
+fluidanimate,IPC: 0.780595,
  
  
 L1: size=32, associativity=8, block=64
 L2: size=1024, associativity=8, block=128
 TLB: size=64, associativity=4, page=4096
-freqmine,IPC: 0.451916,
+freqmine,IPC: 0.598748,
  
  
 L1: size=32, associativity=8, block=64
 L2: size=1024, associativity=8, block=128
 TLB: size=64, associativity=4, page=4096
-raytrace,IPC: 0.707837,
+raytrace,IPC: 0.728954,
  
  
 L1: size=32, associativity=8, block=64
 L2: size=1024, associativity=8, block=128
 TLB: size=64, associativity=4, page=4096
-swaptions,IPC: 0.717779,
+swaptions,IPC: 0.718238,
  
  
 L1: size=32, associativity=8, block=64
 L2: size=1024, associativity=8, block=128
 TLB: size=64, associativity=4, page=4096
-streamcluster,IPC: 0.213581,
+streamcluster,IPC: 0.441115,
  
  
 ------------------------------------------
@@ -310,49 +310,49 @@ For N = 64
 L1: size=32, associativity=8, block=64
 L2: size=1024, associativity=8, block=128
 TLB: size=64, associativity=4, page=4096
-blackscholes,IPC: 0.203235,
+blackscholes,IPC: 0.21094,
  
  
 L1: size=32, associativity=8, block=64
 L2: size=1024, associativity=8, block=128
 TLB: size=64, associativity=4, page=4096
-bodytrack,IPC: 0.604063,
+bodytrack,IPC: 0.616502,
  
  
 L1: size=32, associativity=8, block=64
 L2: size=1024, associativity=8, block=128
 TLB: size=64, associativity=4, page=4096
-canneal,IPC: 0.0824706,
+canneal,IPC: 0.0839678,
  
  
 L1: size=32, associativity=8, block=64
 L2: size=1024, associativity=8, block=128
 TLB: size=64, associativity=4, page=4096
-fluidanimate,IPC: 0.652937,
+fluidanimate,IPC: 0.78966,
  
  
 L1: size=32, associativity=8, block=64
 L2: size=1024, associativity=8, block=128
 TLB: size=64, associativity=4, page=4096
-freqmine,IPC: 0.476394,
+freqmine,IPC: 0.606608,
  
  
 L1: size=32, associativity=8, block=64
 L2: size=1024, associativity=8, block=128
 TLB: size=64, associativity=4, page=4096
-raytrace,IPC: 0.707979,
+raytrace,IPC: 0.724242,
  
  
 L1: size=32, associativity=8, block=64
 L2: size=1024, associativity=8, block=128
 TLB: size=64, associativity=4, page=4096
-swaptions,IPC: 0.71821,
+swaptions,IPC: 0.71772,
  
  
 L1: size=32, associativity=8, block=64
 L2: size=1024, associativity=8, block=128
 TLB: size=64, associativity=4, page=4096
-streamcluster,IPC: 0.213736,
+streamcluster,IPC: 0.442567,
  
  
 ------------------------------------------
