@@ -19,6 +19,21 @@ Y_val = validate_data.iloc[:-1,-1]
 # List of hyperparameters to test
 hyperparameters_to_test = [
 
+    # Different Units
+    {'units': 64, 'dropout_rate': 0.5, 'epochs': 10, 'batch_size': 32},
+    {'units': 128, 'dropout_rate': 0.5, 'epochs': 10, 'batch_size': 32},
+    {'units': 32, 'dropout_rate': 0.5, 'epochs': 10, 'batch_size': 32},
+
+    # Different Dropout
+    {'units': 64, 'dropout_rate': 0.3, 'epochs': 10, 'batch_size': 32},
+    {'units': 64, 'dropout_rate': 0.4, 'epochs': 10, 'batch_size': 32},
+    {'units': 64, 'dropout_rate': 0.2, 'epochs': 10, 'batch_size': 32},
+
+    # Different Batch Size
+    {'units': 64, 'dropout_rate': 0.5, 'epochs': 10, 'batch_size': 32},
+    {'units': 64, 'dropout_rate': 0.5, 'epochs': 10, 'batch_size': 64},
+    {'units': 64, 'dropout_rate': 0.5, 'epochs': 10, 'batch_size': 128}
+
 ]
 
 rnn_results = []
