@@ -49,7 +49,7 @@ for file in file_int:
         beats = np.split(channel, out['rpeaks'])
 
         # Write the data in csv form
-        with open(f'../csv_files/{channel_name}_{file}.csv','w') as f:
+        with open(f'../csv_files/{channel_name}/{channel_name}_{file}.csv','w') as f:
             for i in range(300):
                 f.write(f'feature_{i + 1},')
             f.write('gt\n')
@@ -62,12 +62,12 @@ for file in file_int:
                 # If the pulse is super huge leave it out
                 # The median number of samples in each pulse is about 300
                 # So we'll use 300 features for each pulse
-                if len(item) > 300:
+                if len(item) > 200:
                     continue
 
                 # Zero padding
-                zeros_to_pad = 300 - len(item)
-                item = np.pad(item, (0,300 - len(item)), 'constant', constant_values = 0.0)
+                zeros_to_pad = 200 - len(item)
+                item = np.pad(item, (0,200 - len(item)), 'constant', constant_values = 0.0)
 
                 # Normalisation
                 item = (item - item.min())/item.ptp()
