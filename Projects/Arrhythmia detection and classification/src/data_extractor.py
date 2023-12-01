@@ -16,6 +16,8 @@ file_int = set(integers)
 file_int = list(file_int)
 file_int.remove(256)
 
+padding = 300
+
 for file in file_int:
     # The record contains all info about our experiment
     record = wfdb.rdsamp(f'../mit-bih-arrhythmia-database-1.0.0/{file}')
@@ -30,7 +32,7 @@ for file in file_int:
     labels = np.array(label.symbol)
     gt = np.zeros(len(labels),dtype='float')
     for index, item in enumerate(labels):
-        if item=='N': 
+        if item=='N':
             gt[index] = 1.0 #Normal
         elif item in symbols:
             gt[index] = 2.0 #Abnormal
@@ -50,7 +52,8 @@ for file in file_int:
 
         # Write the data in csv form
         with open(f'../csv_files/{channel_name}/{channel_name}_{file}.csv','w') as f:
-            for i in range(300):
+            print(channel_name)
+            for i in range(padding):
                 f.write(f'feature_{i + 1},')
             f.write('gt\n')
             for i,item in enumerate(beats):
@@ -60,14 +63,14 @@ for file in file_int:
                     continue
 
                 # If the pulse is super huge leave it out
-                # The median number of samples in each pulse is about 300
-                # So we'll use 300 features for each pulse
-                if len(item) > 200:
+                # The median number of samples in each pulse is about 200
+                # So we'll use 200 features for each pulse
+                if len(item) > padding:
                     continue
 
                 # Zero padding
-                zeros_to_pad = 200 - len(item)
-                item = np.pad(item, (0,200 - len(item)), 'constant', constant_values = 0.0)
+                zeros_to_pad = padding - len(item)
+                item = np.pad(item, (0,padding - len(item)), 'constant', constant_values = 0.0)
 
                 # Normalisation
                 item = (item - item.min())/item.ptp()
